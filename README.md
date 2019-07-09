@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Banking Application (version .1)
 ## Jensen Gastelum
 - Project is a banking app that contains three main menus customer, admin, and employee. 
